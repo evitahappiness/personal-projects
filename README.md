@@ -1,2 +1,2 @@
-# personal-projects
-this is my personal project repository
+# practice-projects
+this is my practicing project repository
